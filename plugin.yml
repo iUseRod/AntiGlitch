@@ -1,0 +1,5 @@
+version: 1.0
+name: AntiGlitch
+main: me.UseRod.AntiGlitch.Main
+author: UseRod
+description:Removes Server Glitches
